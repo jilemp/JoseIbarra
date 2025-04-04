@@ -11,8 +11,11 @@ Data Scientist | Data Analyst
 ✔ Business acumen + technical skills: I don’t just interpret data—I turn it into actionable strategies. My business development experience allows me to connect insights with real-world impact.
 
 ✔ Global experience: I’ve worked in diverse markets like Europe, Asia, and Latin America, giving me a broad perspective on data applications across industries.
+
 ✔ Technical skills: I work with tools like Python, SQL, Power BI, and TensorFlow, applied to real-world projects like demand forecasting and commercial data analysis. 
+
 📢 How can I contribute to your team? If you’re looking for a Data Scientist with strong technical skills but also a strategic, business-oriented mindset, I’d love to connect. 
+
 🚀 Let’s talk!
 
 * 🌍  I'm based in Chile
